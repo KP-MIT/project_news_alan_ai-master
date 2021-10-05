@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/https://github.com/KP-MIT/Project_AI_NewsAssistant/static/css/main.0d5a11d4.chunk.css",
+    "main.js": "/https://github.com/KP-MIT/Project_AI_NewsAssistant/static/js/main.dad54aeb.chunk.js",
+    "main.js.map": "/https://github.com/KP-MIT/Project_AI_NewsAssistant/static/js/main.dad54aeb.chunk.js.map",
+    "runtime-main.js": "/https://github.com/KP-MIT/Project_AI_NewsAssistant/static/js/runtime-main.951f63d3.js",
+    "runtime-main.js.map": "/https://github.com/KP-MIT/Project_AI_NewsAssistant/static/js/runtime-main.951f63d3.js.map",
+    "static/js/2.8f17b265.chunk.js": "/https://github.com/KP-MIT/Project_AI_NewsAssistant/static/js/2.8f17b265.chunk.js",
+    "static/js/2.8f17b265.chunk.js.map": "/https://github.com/KP-MIT/Project_AI_NewsAssistant/static/js/2.8f17b265.chunk.js.map",
+    "static/js/3.f90d5029.chunk.js": "/https://github.com/KP-MIT/Project_AI_NewsAssistant/static/js/3.f90d5029.chunk.js",
+    "static/js/3.f90d5029.chunk.js.map": "/https://github.com/KP-MIT/Project_AI_NewsAssistant/static/js/3.f90d5029.chunk.js.map",
+    "index.html": "/https://github.com/KP-MIT/Project_AI_NewsAssistant/index.html",
+    "static/css/main.0d5a11d4.chunk.css.map": "/https://github.com/KP-MIT/Project_AI_NewsAssistant/static/css/main.0d5a11d4.chunk.css.map",
+    "static/js/2.8f17b265.chunk.js.LICENSE.txt": "/https://github.com/KP-MIT/Project_AI_NewsAssistant/static/js/2.8f17b265.chunk.js.LICENSE.txt",
+    "static/media/AI-image-unsplash.a23eb261.jpg": "/https://github.com/KP-MIT/Project_AI_NewsAssistant/static/media/AI-image-unsplash.a23eb261.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.951f63d3.js",
+    "static/js/2.8f17b265.chunk.js",
+    "static/css/main.0d5a11d4.chunk.css",
+    "static/js/main.dad54aeb.chunk.js"
+  ]
+}
